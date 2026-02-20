@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AllRize</title>
+	<atom:link href="https://allrize.ai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://allrize.ai/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Feb 2026 05:45:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://allrize.ai/wp-content/uploads/2024/01/AllRize-fabicon.png</url>
+	<title>AllRize</title>
+	<link>https://allrize.ai/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Five AI Lessons Law Firms Have Learned So Far</title>
+		<link>https://allrize.ai/five-ai-lessons-law-firms-have-learned-so-far/</link>
+		
+		<dc:creator><![CDATA[Lauren Rownd]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 07:23:51 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5479</guid>
+
+					<description><![CDATA[<p>Artificial intelligence is no longer a theoretical conversation for law firms. To varying degrees, AI is now an operational reality. However, many firms have discovered that implementing AI is far more complex than purchasing a tool or rolling out access. The biggest lessons so far have been about workflow design, risk ownership, and strategy. As [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/five-ai-lessons-law-firms-have-learned-so-far/">Five AI Lessons Law Firms Have Learned So Far</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Artificial intelligence is no longer a theoretical conversation for law firms. To varying degrees, AI is now an operational reality.</p>
+<p>However, many firms have discovered that implementing AI is far more complex than purchasing a tool or rolling out access. The biggest lessons so far have been about workflow design, risk ownership, and strategy. As firms continue AI investment and implementation going forward, those lessons offer a clear roadmap for what to do differently.</p>
+<h2>Lesson 1: AI Doesn’t Fix Broken Workflows</h2>
+<p>One of the most consistent takeaways from law firms is that AI does not magically create efficiency. Firms that layered AI on top of existing workflows often found themselves adding steps instead of eliminating them. Lawyers spent time rechecking AI output line by line, duplicating work rather than reducing it.</p>
+<p>The problem wasn’t the technology, it was the workflow. AI exposed and even exacerbated inefficiencies that already existed.</p>
+<p><em><strong>What to do differently:</strong></em><br />
+Before deploying AI, firms should step back and map how work actually gets done. Identify where repetition exists, where judgment is required, and where speed truly adds value. <a href="https://allrize.ai/wp-content/uploads/2025/12/How-AllRize-AI-Assistant-Automates-Legal-Workflows.pdf" target="_blank" rel="noopener">Redesign workflows</a> first, then apply AI intentionally.</p>
+<h2>Lesson 2: AI Risk Is Often Misunderstood</h2>
+<p>To date, much of the focus around AI risk has centered on accuracy and hallucinations. While those risks are real, many firms have learned that the bigger issues are organizational. Unclear accountability, inconsistent use, and undefined review standards often created more exposure than the AI output itself.</p>
+<p>AI can draft, summarize, classify, and extract information at speed. What it cannot do is set priorities, weigh legal risk, or own outcomes. Those responsibilities still belong to people.</p>
+<p><em><strong>What to do differently:</strong></em><br />
+Shift AI risk conversations away from “Is the AI accurate?” to “Who owns the decision?” Clearly define responsibility for AI-assisted work, document review expectations, and ensure human judgment remains central.</p>
+<h2>Lesson 3: Technology Without Strategy Can Overwhelm Teams</h2>
+<p>Another key lesson is how quickly AI adoption can overwhelm legal teams. Rapid tool proliferation, constant updates, and unclear expectations lead to anxiety rather than excitement, especially for lawyers already managing heavy workloads.</p>
+<p>Firms that have framed AI as a race to keep up with competitors often encounter resistance. Those that focus on a small number of high-impact use cases often see better engagement and results.</p>
+<p><em><strong>What to do differently:</strong></em><br />
+Adopt a focused AI strategy. Limit initiatives to areas with clear value, communicate why those initiatives matter, and give teams time to adapt. Training should emphasize how AI fits into legal judgment and decision-making, not just how to use the tools.</p>
+<h2>Lesson 4: AI Doesn’t Automatically Save Time</h2>
+<p>One of the biggest disconnects in implementation is the assumption that AI will automatically create efficiency. Many lawyers find themselves spending just as much time reviewing AI-generated work as they would have drafting it themselves. In practice, AI often shifts where time is spent rather than reducing it.</p>
+<p>In most cases, this bottleneck can be attributed to a failure to rethink review standards rather than a limitation of the technology.</p>
+<p><em><strong>What to do differently:</strong></em><br />
+Firms need to redefine review expectations for AI-assisted work. Review depth should be tied to risk and materiality. When expectations are calibrated appropriately, AI can meaningfully reduce low-value effort and accelerate decision-making without increasing risk.</p>
+<h2>Lesson 5: The Next Generation Approaches AI Differently</h2>
+<p>Law firms working closely with junior lawyers and law students are beginning to see a clear generational shift in how AI is viewed. For newer entrants to the profession, AI is an expected part of how modern work gets done. Their focus is less on whether AI should be used and more on how it can be applied responsibly.</p>
+<p>What stands out most is that younger lawyers are not asking for more tools. They are asking for clarity: when to rely on AI, how to exercise judgment, and where accountability ultimately lies.</p>
+<p><em><strong>What to do differently:</strong></em><br />
+Law firms should move beyond tool-based training for AI and invest in education that emphasizes judgment, risk assessment, and ethical decision-making. Firms that teach lawyers how to think critically about AI will be better positioned to develop talent and adapt as technology continues to evolve.</p>
+<h2>Looking Ahead</h2>
+<p>Looking ahead to the next technological phase of the legal profession, the lesson is clear: AI will not transform legal work on its own. The firms that make real progress will be the ones willing to rethink how work is done, clarify ownership, and set realistic expectations for how legal judgment fits into AI work product.</p>
+<p>Firms that ask the right questions about workflows, accountability, and outcomes will be best positioned to turn AI from an experiment into a lasting advantage.</p>
+<p>The post <a href="https://allrize.ai/five-ai-lessons-law-firms-have-learned-so-far/">Five AI Lessons Law Firms Have Learned So Far</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Who Really Owns the Future of Law Firms?</title>
+		<link>https://allrize.ai/https-allrize-ai-who-really-owns-the-future-of-law-firms-with-jon-campisi/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 04:13:46 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5465</guid>
+
+					<description><![CDATA[<p>In this episode, we dig into how the business of law is changing as outside investment, alternative legal service providers, and management services organizations become a bigger part of the conversation. We unpack the recent headlines around non-lawyer ownership and look ahead at what all of this means for the future of law firm structures.</p>
+<p>The post <a href="https://allrize.ai/https-allrize-ai-who-really-owns-the-future-of-law-firms-with-jon-campisi/">Who Really Owns the Future of Law Firms?</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><iframe src="https://www.buzzsprout.com/2449453/episodes/18668066-who-really-owns-the-future-of-law-firms?client_source=small_player&#038;iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Rule of Law, Who Really Owns the Future of Law Firms?'></iframe></p>
+<p>The post <a href="https://allrize.ai/https-allrize-ai-who-really-owns-the-future-of-law-firms-with-jon-campisi/">Who Really Owns the Future of Law Firms?</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 10 Legal Influencers to Watch in 2026</title>
+		<link>https://allrize.ai/top-10-legal-influencers-to-watch-in-2026/</link>
+		
+		<dc:creator><![CDATA[Lauren Rownd]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 09:42:56 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5460</guid>
+
+					<description><![CDATA[<p>The voices shaping legal tech, innovation, and the future of the practice of law. The legal industry is entering one of its most transformative periods yet. As law firms rethink how they deliver services, manage data, and leverage technology, a new class of legal influencers is leading the conversation. These are 10 legal industry leaders, [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/top-10-legal-influencers-to-watch-in-2026/">Top 10 Legal Influencers to Watch in 2026</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The voices shaping legal tech, innovation, and the future of the practice of law.</em></p>
+<p>The legal industry is entering one of its most transformative periods yet. As law firms rethink how they deliver services, manage data, and leverage technology, a new class of legal influencers is leading the conversation.</p>
+<p>These are 10 legal industry leaders, technologists, innovators, and creators whose ideas, content, and influence are shaping the future of law.</p>
+<h2>1. Cat Casey</h2>
+<p><a href="https://www.linkedin.com/in/catherineacasey/" target="_blank" rel="noopener">Cat Casey</a> has become one of the most recognizable voices in e-discovery and legal AI, known for making even the most complex technical concepts accessible (and often entertaining) to legal practitioners. As a seasoned e-discovery leader working at the intersection of litigation, data science, and AI, Casey brings deep experience from both the corporate and vendor sides of the industry.</p>
+<p>Her thought leadership demystifies emerging technologies, breaks down the realities of AI adoption, and highlights how legal teams can leverage automation responsibly. In 2026, her ability to translate technical nuance into practical, real-world guidance makes her a go-to expert for firms modernizing their litigation workflows.</p>
+<h2>2. Richard Tromans</h2>
+<p><a href="https://www.linkedin.com/in/artificiallawyer/?originalSubdomain=uk" target="_blank" rel="noopener">Richard Tromans</a> is the founder and editorial force behind <a href="https://www.artificiallawyer.com/" target="_blank" rel="noopener">Artificial Lawyer</a>, one of the most influential publications covering the global legal tech ecosystem. His reporting blends sharp analysis with a futurist’s perspective, examining how automation, AI, and new business models are reshaping legal markets.</p>
+<p>Tromans is known for challenging traditional thinking and pushing firms to confront the economic realities of modern service delivery. His voice carries particular weight in 2026 as the profession grapples with the impact of AI agents and new forms of competition. When Tromans writes about the next phase of legal transformation, the industry pays attention.</p>
+<h2>3. Shaun Jardine</h2>
+<p><a href="https://www.linkedin.com/in/shaunjardine/?originalSubdomain=uk" target="_blank" rel="noopener">Shaun Jardine</a> is a leading thinker on legal pricing, revenue strategy, and law-firm modernization. As the founder of <a href="https://legalgigz.com/" target="_blank" rel="noopener">LegalGigz</a>, he is reimagining the way firms manage business development, conference engagement, and professional visibility in the evolving legal marketplace.</p>
+<p>A former law firm CEO, Jardine brings a rare combination of executive insight and entrepreneurial vision. His commentary on value-based pricing, the economics of legal practice, and the shifting expectations of clients is helping attorneys rethink how they package and communicate their services. In 2026, Jardine remains one of the most influential voices driving the commercial reinvention of law.</p>
+<h2>4. Stephanie Wilkins</h2>
+<p>As Director of Content at <a href="https://www.legaltechnologyhub.com/" target="_blank" rel="noopener">Legaltech Hub</a>, <a href="https://www.linkedin.com/in/stephanie-wilkins/" target="_blank" rel="noopener">Stephanie Wilkins</a> has established herself as one of the most trusted journalists covering the rapidly evolving legal technology landscape. Her reporting is grounded, nuanced, and refreshingly clear, offering lawyers practical insights into AI tools, cybersecurity risks, vendor trends, and regulatory developments.</p>
+<p>Wilkins has a talent for asking the right questions and cutting through hype to uncover how technologies truly impact legal work. With AI regulation accelerating globally, her leadership and editorial direction make Legaltech News an essential resource for legal professionals seeking reliable guidance in 2026.</p>
+<h2>5. Carolyn Elefant</h2>
+<p><a href="https://www.linkedin.com/in/carolynelefant/" target="_blank" rel="noopener">Carolyn Elefant</a> is widely regarded as the leading advocate for solo and small firm innovation. A practicing attorney, author of the groundbreaking blog <a href="https://myshingle.com/" target="_blank" rel="noopener">MyShingle</a>, and a longtime proponent of lawyer empowerment, Elefant combines practical experience with a forward-thinking mindset.</p>
+<p>She helps solo practioners adopt the right technologies, build sustainable practices, and compete effectively in a modern marketplace. Elefant’s insights bridge the gap between traditional legal practice and new-age entrepreneurial lawyering. As the legal industry becomes more democratized through automation and accessible tools, her influence continues to grow in 2026.</p>
+<h2>6. Kristen Sonday</h2>
+<p><a href="https://www.linkedin.com/in/kristensonday/" target="_blank" rel="noopener">Kristen Sonday</a> is an access to justice advocate and one of the most impactful innovators working to expand access to legal services. As the co-founder of <a href="https://www.joinpaladin.com/" target="_blank" rel="noopener">Paladin</a>, she built a platform that streamlines pro bono engagement across law firms, corporations, and nonprofits, creating measurable improvements in how legal help reaches underserved communities. Sonday’s leadership extends beyond technology: she is an advocate for justice reform, a respected policy voice, and a mentor to emerging legal founders. In an era where equity and technology increasingly intersect, Sonday’s vision is shaping the future of accessible legal service delivery.</p>
+<h2>7. David Wakeling</h2>
+<p><a href="https://www.linkedin.com/in/david-wakeling-847724/" target="_blank" rel="noopener">David Wakeling</a> leads the Markets Innovation Group at <a href="https://www.aoshearman.com/en" target="_blank" rel="noopener">A&amp;O Shearman</a>, one of the most advanced legal innovation teams in the world. Under his direction, the firm has pioneered transformative AI collaborations, including the high-profile partnership with Harvey, that have set new global standards for legal AI adoption.</p>
+<p>Wakeling operates at the forefront of agentic AI, workflow automation, and legal data engineering, pushing the boundaries of what law firms can achieve with responsible, well-governed technology. His work is redefining how elite firms practice law in 2026, making him one of the most influential figures in the legal AI movement.</p>
+<h2>8. Jordan Furlong</h2>
+<p><a href="https://www.linkedin.com/in/jordanfurlong/?originalSubdomain=ca" target="_blank" rel="noopener">Jordan Furlong</a> is a globally recognized legal strategist known for his ability to anticipate and articulate the forces reshaping the profession. Through his writing, consulting, and speaking, Furlong helps firms understand evolving client expectations, market pressures, and the realities of modern legal service delivery.</p>
+<p>His analyses of regulatory reform, alternative legal services, and AI-driven transformation provide clarity to attorneys navigating the next frontier of legal practice. In 2026, his futurist insights remain indispensable for firm leaders planning for long-term success.</p>
+<h2>9. Ari Kaplan</h2>
+<p><a href="https://www.linkedin.com/in/theopportunitymaker/" target="_blank" rel="noopener">Ari Kaplan</a> is one of the most respected researchers in the legal industry, known for conducting in-depth interviews and quantitative studies that reveal how corporate legal departments, law firms, and legal ops teams are actually operating.</p>
+<p>His research provides rare visibility into real-world technology adoption, staffing trends, workflow challenges, and leadership priorities. Kaplan’s commentary is grounded in data and informed by conversations with hundreds of legal professionals each year. In 2026, his work will continue to shape how organizations benchmark themselves and make strategic decisions.</p>
+<h2>10. Erik Ruda</h2>
+<p><a href="https://www.linkedin.com/in/erik-ruda/" target="_blank" rel="noopener">Erik Ruda</a> is the founder of <a href="https://allrize.ai/" target="_blank" rel="noopener">AllRize</a>, one of the most forward-thinking AI-powered practice management platforms in the legal industry. With a background that blends law, technology, and operational strategy, Ruda has emerged as a leading voice in the movement to modernize how law firms work.</p>
+<p>Under Ruda’s leadership, AllRize has pioneered the integration of generative and agentic AI into everyday law firm processes, and combined that with comprehensive GRC capabilities that provide essential guardrails for AI use cases. He is known for his practical approach to legal tech innovation, emphasizing not just automation for its own sake, but the importance of data-driven, ethically grounded, and operationally sound solutions that align with how attorneys actually practice.</p>
+<p>The post <a href="https://allrize.ai/top-10-legal-influencers-to-watch-in-2026/">Top 10 Legal Influencers to Watch in 2026</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Lawyer’s Guide to Conferences with LegalGigz</title>
+		<link>https://allrize.ai/the-lawyers-guide-to-conferences-with-legalgigz/</link>
+		
+		<dc:creator><![CDATA[Erik Ruda]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 11:24:11 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5367</guid>
+
+					<description><![CDATA[<p>In this episode, we sit down with Shaun Jardine, legal pricing expert and founder of LegalGigz, a new platform designed to help lawyers easily discover and keep track of business of law legal conferences, events, and the growing ecosystem of adjacent gatherings that make these trips so valuable. Shaun shares why conferences remain one of the most powerful tools for career growth, business development, and staying ahead of industry change. </p>
+<p>The post <a href="https://allrize.ai/the-lawyers-guide-to-conferences-with-legalgigz/">The Lawyer’s Guide to Conferences with LegalGigz</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><iframe src="https://www.buzzsprout.com/2449453/episodes/18568932-the-lawyer-s-guide-to-conferences-with-legalgigz?client_source=small_player&#038;iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Rule of Law, The Lawyer’s Guide to Conferences with LegalGigz'></iframe></p>
+<p>The post <a href="https://allrize.ai/the-lawyers-guide-to-conferences-with-legalgigz/">The Lawyer’s Guide to Conferences with LegalGigz</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Success of AI in Law Firms Depends on One Thing: Your Data</title>
+		<link>https://allrize.ai/the-success-of-ai-in-law-firms-depends-on-one-thing-your-data/</link>
+		
+		<dc:creator><![CDATA[Erik Ruda]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 12:55:18 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5334</guid>
+
+					<description><![CDATA[<p>Legal technology is evolving at unprecedented speed. New AI-powered tools enter the market every week, each promising smoother workflows, smarter automation, and faster results. But regardless of which AI platforms a law firm chooses, one truth remains constant: AI is only as strong as the data it’s connected to. The Quality of Your Data Dictates [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/the-success-of-ai-in-law-firms-depends-on-one-thing-your-data/">The Success of AI in Law Firms Depends on One Thing: Your Data</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Legal technology is evolving at unprecedented speed. New AI-powered tools enter the market every week, each promising smoother workflows, smarter automation, and faster results. But regardless of which AI platforms a law firm chooses, one truth remains constant: AI is only as strong as the data it’s connected to.</p>
+<h2>The Quality of Your Data Dictates the Quality of Your AI</h2>
+<p>As advanced as AI has become, it isn’t magic. It can’t intuit the history of your matters or the structure of your firm. It relies entirely on the data you feed it. As AI becomes more standardized across the industry, the real differentiator will be how clean, connected, accurate, and governed the firm’s data is.</p>
+<p>Two firms using the exact same AI product will see drastically different results depending on the condition of their data estate. A data-mature firm will experience automation, insights, and speed that simply aren’t possible for a firm with fragmented or inconsistent data.</p>
+<p>If your data is inconsistent, outdated, mislabeled, or scattered across incompatible platforms, no AI system, no matter how advanced, can deliver reliable insights.</p>
+<p>Take metadata as an example. If everyone at the firm has a different process for drafting, labeling, and saving files, AI can’t reliably classify files, identify document types, or connect related materials. When AI can’t find what it needs, it has two choices: 1) return incomplete results; or 2) infer missing details (possibly leading to hallucinations). Neither outcome is acceptable in a legal practice.</p>
+<p>To set yourself up for success, your firm’s data should be:</p>
+<ul>
+<li>Accurate</li>
+<li>Complete</li>
+<li>Consistent</li>
+<li>Historically coherent (to the extent possible)</li>
+<li>Accessible across systems</li>
+</ul>
+<h2>Disparate Systems = Disjointed AI</h2>
+<p>One of the biggest obstacles to effective AI adoption in law firms is a lack of system cohesion. Many firms still operate in an environment where critical information lives inside siloed, incompatible platforms: a CRM for intake, a separate case management system for active matters, a standalone system for documents, a billing tool for timekeeping, and countless spreadsheets or email threads filling in the gaps.</p>
+<p>AI works best when it is informed by a unified data platform. When your firm’s data is scattered across isolated systems, AI cannot build a coherent understanding of your business. Even the most advanced model can only analyze what it can access, and when your information is fragmented, the AI sees a fragmented view of your cases, clients, timelines, and history.</p>
+<p>This fragmentation can show up in a multitude of operational failures: AI won’t be able to create accurate summaries, properly assign documents to a client or a matter, accurately classify or retrieve materials, or make helpful predictive recommendations.</p>
+<p>Disparate systems also invite human error. Attorneys upload documents with inconsistent titles, enter client details differently from one system to the next, or update information in one platform but forget the others. Over time, the same client or matter may have multiple “truths” depending on which system you check.</p>
+<h2>Clean, Structured Data Is What Unlocks Real AI Value</h2>
+<p>A firm may buy the most cutting-edge platform on the market, but a new tool won’t fix bad data. This is why firms often find themselves a victim of “shiny object syndrome” &#8211; chasing the newest product while never addressing the underlying operational debt. If the underlying information isn’t organized, unified, and trustworthy, the AI layer built on top will be shaky.</p>
+<p>If a firm wants to get the most out of AI investments, it must invest equally in data infrastructure and processes that enable data integrity:</p>
+<ul>
+<li>Consolidating systems</li>
+<li>Standardizing naming conventions and taxonomies</li>
+<li>Establishing consistent metadata practices</li>
+<li>Creating documented SOPs for data entry and maintenance</li>
+<li>Migrating legacy data thoughtfully and strategically</li>
+<li>Setting up clear governance policies</li>
+</ul>
+<p>Centralized and standardized data empowers AI to identify patterns, make inferences, and deliver meaningful automation instead of generic output.</p>
+<h2>Long-Term AI Success Requires Long-Term Data Governance</h2>
+<p>Data governance is often billed as a one-time cleanup project, when in fact it is an ongoing discipline. Data quality is never “finished,” because new information enters the system daily through new matters, documents, emails, client communications, billing entries, and attorney</p>
+<p>The post <a href="https://allrize.ai/the-success-of-ai-in-law-firms-depends-on-one-thing-your-data/">The Success of AI in Law Firms Depends on One Thing: Your Data</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building a Customer-First Culture at AllRize</title>
+		<link>https://allrize.ai/building-a-customer-first-culture-at-allrize/</link>
+		
+		<dc:creator><![CDATA[Erik Ruda]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2026 11:58:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5322</guid>
+
+					<description><![CDATA[<p>As the CEO of AllRize, I&#8217;ve spoken with countless law firm executives who share similar stories about their previous experience with legal tech vendors. The sales process was smooth and promising, but once the contract was signed, they were left to navigate complex implementations largely on their own. Data migration became a nightmare of lost [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/building-a-customer-first-culture-at-allrize/">Building a Customer-First Culture at AllRize</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As the CEO of AllRize, I&#8217;ve spoken with countless law firm executives who share similar stories about their previous experience with legal tech vendors. The sales process was smooth and promising, but once the contract was signed, they were left to navigate complex implementations largely on their own. Data migration became a nightmare of lost information and corrupted files. Training consisted of generic webinars that didn&#8217;t address their specific workflows. And when problems arose, they found themselves trapped in endless support ticket queues, speaking with representatives who seemed to be reading from scripts rather than solving problems.</p>
+<p>The result? Decreased productivity, frustrated staff, unhappy clients, and the sinking realization that they had invested significant capital in a system that was creating more problems than it solved.</p>
+<p>When we formed AllRize, we made the decision to disrupt that customer experience in a positive way by developing a true “customer-first” culture. It’s in our collective DNA and we work relentlessly to deliver 100% satisfaction to each customer. Our customer-first culture manifests in four critical ways that directly impact your firm&#8217;s success.</p>
+<h2><strong>1. Data Migration Done Right</strong></h2>
+<p>We understand that your existing data represents years of client relationships, case histories, and institutional knowledge. Our team works hand-in-hand with yours to ensure every piece of critical information transfers accurately and completely. We don&#8217;t hand you a migration tool and wish you luck—we partner with you through every step of the process.</p>
+<h2><strong>2. Customized Configuration</strong></h2>
+<p>No two law firms are identical, and your practice management software shouldn&#8217;t force you into a one-size-fits-all approach. We take the time to understand your specific workflows, practice areas, and operational requirements, then configure AllRize to support how your firm actually works, not how we think it should work.</p>
+<h2><strong>3. Comprehensive Training</strong></h2>
+<p>Every user at your firm receives personalized training tailored to their role and responsibilities. We don&#8217;t believe in overwhelming your team with features they&#8217;ll never use. Instead, we focus on empowering each person to fully leverage the specific AllRize features that will make them more productive in less time.</p>
+<h2><strong>4. White Glove Support</strong></h2>
+<p>When you need help, you&#8217;ll speak with knowledgeable AllRize support professionals who know your firm, understand your configuration, and are empowered to solve problems quickly. No ticket queue purgatory. No scripted responses that miss the point of your question. In fact, I’ve been known to jump in and provide support myself!</p>
+<p>As a privately held company, we answer to our customers, not to shareholders demanding quarterly growth at any cost. This gives us the freedom to make decisions that prioritize your long-term satisfaction over short-term metrics. We measure our success by your success, and we&#8217;ve built our entire organization around that principle.</p>
+<p>Your firm deserves a practice management partner who treats your success as their own. That&#8217;s the AllRize promise, and it&#8217;s a commitment I stand behind personally.</p>
+<p><em>Ready to experience the AllRize difference? Let&#8217;s talk about how we can support your firm&#8217;s success. Feel free to contact me directly at <a href="mailto:eruda@allrize.ai">eruda@allrize.ai</a>.</em></p>
+<p>The post <a href="https://allrize.ai/building-a-customer-first-culture-at-allrize/">Building a Customer-First Culture at AllRize</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why the Media Is Paying Attention to AllRize 3.0 — and Why Mid-Sized Law Firms Should Too</title>
+		<link>https://allrize.ai/why-the-media-is-paying-attention-to-allrize-3-0-and-why-mid-sized-law-firms-should-too/</link>
+		
+		<dc:creator><![CDATA[Erik Ruda]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 05:51:11 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5260</guid>
+
+					<description><![CDATA[<p>When new legal technology enters the market, media coverage often focuses on feature lists and technical milestones. But the recent coverage of AllRize 3.0 by WindowsForum and Complete AI Training reflects something deeper: a growing recognition that mid-sized law firms are facing structural challenges that legacy practice management systems were never designed to solve — [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/why-the-media-is-paying-attention-to-allrize-3-0-and-why-mid-sized-law-firms-should-too/">Why the Media Is Paying Attention to AllRize 3.0 — and Why Mid-Sized Law Firms Should Too</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When new legal technology enters the market, media coverage often focuses on feature lists and technical milestones. But the recent coverage of AllRize 3.0 by <a href="https://windowsforum.com/threads/allrize-3-0-microsoft-dynamics-365-native-law-practice-management-with-copilot-ai.393234/" target="_blank" rel="noopener">WindowsForum</a> and <a href="https://completeaitraining.com/news/allrize-30-launches-on-microsoft-dynamics-365-with/" target="_blank" rel="noopener">Complete AI Training</a> reflects something deeper: a growing recognition that mid-sized law firms are facing structural challenges that legacy practice management systems were never designed to solve — and that AllRize is addressing those challenges head-on.</p>
+<p>Both articles highlight a reality that managing partners and firm administrators know well. Growth brings complexity. As firms scale, they struggle with fragmented systems, manual processes, inconsistent data, and lost billable time. The media attention around AllRize 3.0 suggests that the market is beginning to see a different path forward — one built on unified data, intelligent automation, and enterprise-grade infrastructure.</p>
+<p>At the center of this conversation is AllRize’s decision to build natively on Microsoft Dynamics 365, rather than layering legal workflows on top of disconnected tools. For firm leaders, this matters. It means client relationships, matters, documents, time, billing, and accounting live in a single system of record — not spread across silos that require constant reconciliation. The Complete AI Training article points out that the modular architecture of AllRize 3.0 allows firms to implement platform features all at once, or at their own pace.</p>
+<p>One of the most compelling themes in the coverage is time capture and billing accuracy. The WindowsForum article draws attention to AllRize’s AI-driven approach to capturing work automatically from calendars, tasks, and daily activity. For mid-sized firms, where margins depend on disciplined billing, this directly addresses lost revenue that often goes unnoticed. The takeaway isn’t just convenience — it’s profitability and predictability.</p>
+<p>The media also emphasized how AllRize 3.0 has embedded Copilot-enabled AI into everyday legal workflows. Instead of positioning AI as a novelty, AllRize applies it where firms feel pain: for example, drafting and reviewing documents, summarizing matter activity, and reducing the administrative burden that keeps attorneys from higher-value work. This aligns closely with what firm leaders are looking for today — technology that augments experienced professionals rather than replacing them.</p>
+<p>Accounting, compliance, and security — perennial concerns for managing partners — are another area where coverage highlighted AllRize’s differentiation. Built-in trust accounting controls, audit trails, and Microsoft-grade security give firms the confidence to grow without increasing risk. As the WindowsForum piece notes, these safeguards are not add-ons; they are core to the platform’s architecture.</p>
+<p>Taken together, the media narrative around <a href="https://allrize.ai/wp-content/uploads/2025/12/Introducing-AllRize-3.0_-Redefining-Legal-Work-in-the-Age-of-AI.pdf" target="_blank" rel="noopener">AllRize 3.0</a> reflects a broader shift in legal technology expectations. Mid-sized firms are no longer satisfied with tools that merely “manage cases.” They want platforms that scale with the business, surface insight through AI, and reduce operational drag — all while maintaining compliance and security.</p>
+<p>If you’re a firm leader exploring how AI and modern platforms can support growth without adding chaos, AllRize 3.0 is worth a closer look. The media is starting the conversation — now it’s your turn to decide what the next chapter of your firm’s operations should look like.</p>
+<p>The post <a href="https://allrize.ai/why-the-media-is-paying-attention-to-allrize-3-0-and-why-mid-sized-law-firms-should-too/">Why the Media Is Paying Attention to AllRize 3.0 — and Why Mid-Sized Law Firms Should Too</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Year-End Audit Every Law Firm Should Be Doing</title>
+		<link>https://allrize.ai/the-year-end-audit-every-law-firm-should-be-doing/</link>
+		
+		<dc:creator><![CDATA[Erik Ruda]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 04:04:26 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5252</guid>
+
+					<description><![CDATA[<p>The end of the year is more than a time for holiday cards and closing out matters, it’s the single most important operational checkpoint a law firm has. A thoughtful year-end audit helps firms identify inefficiencies, reduce risk, modernize workflows, and ensure they’re positioned for stronger performance in the coming year. Here’s what every law [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/the-year-end-audit-every-law-firm-should-be-doing/">The Year-End Audit Every Law Firm Should Be Doing</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The end of the year is more than a time for holiday cards and closing out matters, it’s the single most important operational checkpoint a law firm has. A thoughtful year-end audit helps firms identify inefficiencies, reduce risk, modernize workflows, and ensure they’re positioned for stronger performance in the coming year.</p>
+<p>Here’s what every law firm should be examining before the year comes to a close.</p>
+<h2>1. Workflow Review: Where Is Your Firm Wasting Time?</h2>
+<p>Every law firm has operational friction: bottlenecks, redundant steps, manual tasks, unclear ownership, and processes that depend too heavily on individual memory.</p>
+<p>A year-end workflow audit should answer these questions:</p>
+<ul>
+<li>Where are matters slowing down?</li>
+<li>What tasks can be automated or standardized?</li>
+<li>Which workflows rely on outdated processes or tools?</li>
+<li>Are handoffs between team members clear and consistent?</li>
+</ul>
+<p>Many firms discover that considerable time is wasted on repetitive, non-billable work that could be automated through smarter practice management systems or AI-powered workflows.</p>
+<h2>2. Document Management Audit: Is Information Organized and Accessible?</h2>
+<p><a href="https://allrize.ai/solutions/document-management/" target="_blank" rel="noopener">Document management</a> issues are annoying, expensive, and risky. Lost files, duplicate versions, unclear naming conventions, and inconsistent folder structures slow down teams and increase error risk. Many law firms have begun implementing AI into their document management processes. While this is great to streamline work, it isn’t enough to ensure your firm’s document management processes are in order.</p>
+<p>A document management audit should answer these questions:</p>
+<ul>
+<li>Is your document system clean, organized, and searchable?</li>
+<li>Are there duplicate or outdated versions of key files?</li>
+<li>Are naming conventions consistent?</li>
+<li>How easily can attorneys find what they need?</li>
+<li>Is your system ready for AI to analyze, summarize, or draft?</li>
+</ul>
+<p>Firms moving into 2026 must ensure their document environment is structured and intelligent, not a digital junk drawer.</p>
+<h2>3. Client Communication Audit: Are You Meeting Modern Expectations?</h2>
+<p>Clients are demanding more and more from their attorneys. The days of signing a retainer agreement and checking in ahead of key dates are over. Timely communication, access to documents, and process transparency have become the norm.</p>
+<p>A client communication audit should answer these questions:</p>
+<ul>
+<li>Are client updates timely and consistent across the firm?</li>
+<li>Is your communication logged, searchable, and centralized?</li>
+<li>Are attorneys spending too much time drafting routine messages?</li>
+<li>Are clients repeatedly asking basic status questions?</li>
+<li>Are you providing the same level of access and transparency as your competitors?</li>
+</ul>
+<p><a href="https://allrize.ai/wp-content/uploads/2025/05/Close-Gaps-in-Client-Communication-with-AllRize-.pdf">AI-driven communication tools</a> now allow firms to draft updates, summarize emails, prepare meeting notes, and streamline interactions. Attorneys still remain in the driver’s seat, but can skip the tedious processes of manually drafting and sending communications.</p>
+<p>A year-end audit should determine how much time the firm is losing to communication inefficiencies and what tools could help.</p>
+<h2>4. Task &amp; Deadline Management: What Is Falling Through the Cracks?</h2>
+<p>Missed or poorly managed deadlines are among the highest-risk operational issues a law firm faces. It is not uncommon for every staff member in a law firm to have their own unique task management process. If you or your staff is still managing your to-do list from a sticky note on your computer monitor, it’s time to upgrade.</p>
+<p>A task &amp; deadline management audit should answer these questions:</p>
+<ul>
+<li>Are deadlines tracked centrally, not in individual calendars?</li>
+<li>Does your system generate reminders, warnings, and next-step predictions?</li>
+<li>Are task lists standardized based on case type?</li>
+<li>Does the firm rely on manual data entry to track obligations?</li>
+</ul>
+<p><a href="https://allrize.ai/wp-content/uploads/2025/03/Level-Up-Your-Firms-Task-Management-with-AllRize.pdf">Predictive AI tools</a> can now create automated task roadmaps, auto-assign follow-ups, and give real-time visibility into what’s coming next. Leveraging these tools and centralizing processes can make a huge difference in the firm’s operational efficiency.</p>
+<h2>5. Technology Audit: Is Your Firm’s Tech Stack Holding You Back?</h2>
+<p>Most law firms use between <a href="https://allrize.ai/wp-content/uploads/2025/10/AllRize_Legal_Industry_Technology_and_AI_Adoption_Report_2025.pdf" target="_blank" rel="noopener">5 and 10 software applications</a> to run their everyday operations. Rarely are these tools seamlessly integrated and working together to make the lives of attorneys easier. Just because you spent money on an expensive platform doesn’t mean your technology is actually helping you.</p>
+<p>A technology audit should answer these questions:</p>
+<ul>
+<li>Are systems integrated or siloed?</li>
+<li>Is staff using workarounds due to tool limitations?</li>
+<li>Are you paying for software no one uses?</li>
+<li>Is your tech stack modern enough to support AI workflows?</li>
+<li>Are you managing security responsibly?</li>
+</ul>
+<p>As more firms transition to cloud-based and AI-enabled practice management, outdated systems become a competitive disadvantage.</p>
+<h2>The Bottom Line: Year-End Audits Create Long-Term Advantages</h2>
+<p>A year-end audit isn’t just a maintenance exercise, it’s an investment in the future of your firm. By identifying inefficiencies, modernizing workflows, and embracing tools that support automation and AI, firms set themselves up for sustainable growth. The firms that take this moment seriously will be the ones best equipped to compete, innovate, and deliver exceptional client experiences long after the new year begins.</p>
+<p>For firms ready to modernize, AllRize’s AI-powered practice management platform can provide a unified, intelligent foundation built for the future of legal work.</p>
+<p>The post <a href="https://allrize.ai/the-year-end-audit-every-law-firm-should-be-doing/">The Year-End Audit Every Law Firm Should Be Doing</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beyond Innovation Theatre: Real AI ROI in Modern Law Firms</title>
+		<link>https://allrize.ai/beyond-innovation-theatre-real-ai-roi-in-modern-law-firms/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Dec 2025 06:45:44 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5236</guid>
+
+					<description><![CDATA[<p> In today’s episode, we sit down with David Wakeling, Partner and Global Head of Markets Innovation Group at A&#038;O Shearman, for an inside look at how one of the world’s most forward-thinking law firms is shaping the future of legal practice.</p>
+<p>We explore how A&#038;O Shearman evaluates and implements AI, what distinguishes real legal-tech ROI from “innovation theater,” and why many firms struggle to turn experimentation into meaningful operational change. David also shares practical insights on how to build a culture of innovation and his thoughts on the true capabilities of today’s AI systems.</p>
+<p>The post <a href="https://allrize.ai/beyond-innovation-theatre-real-ai-roi-in-modern-law-firms/">Beyond Innovation Theatre: Real AI ROI in Modern Law Firms</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><iframe src="https://www.buzzsprout.com/2449453/episodes/18368603-beyond-innovation-theatre-real-ai-roi-in-modern-law-firms?client_source=small_player&#038;iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Rule of Law, Beyond Innovation Theatre: Real AI ROI in Modern Law Firms'></iframe></p>
+<p>The post <a href="https://allrize.ai/beyond-innovation-theatre-real-ai-roi-in-modern-law-firms/">Beyond Innovation Theatre: Real AI ROI in Modern Law Firms</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AllRize 3.0: Redefining How Law Firms Work in the Age of AI</title>
+		<link>https://allrize.ai/allrize-3-0-redefining-how-law-firms-work-in-the-age-of-ai/</link>
+		
+		<dc:creator><![CDATA[Erik Ruda]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 07:43:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://allrize.ai/?p=5163</guid>
+
+					<description><![CDATA[<p>Today, AllRize announced the release of AllRize 3.0, the newest version of its AI-powered law practice management platform. Built natively on Microsoft Dynamics 365 and seamlessly integrated with all Microsoft office productivity tools, AllRize 3.0 sets a new benchmark for legal operations. The legal industry has entered a new era, one defined by automation, analytics, [&#8230;]</p>
+<p>The post <a href="https://allrize.ai/allrize-3-0-redefining-how-law-firms-work-in-the-age-of-ai/">AllRize 3.0: Redefining How Law Firms Work in the Age of AI</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Today, AllRize announced the release of AllRize 3.0, the newest version of its AI-powered law practice management platform. Built natively on Microsoft Dynamics 365 and seamlessly integrated with all Microsoft office productivity tools, AllRize 3.0 sets a new benchmark for legal operations.</p>
+<p>The legal industry has entered a new era, one defined by automation, analytics, and AI integration. For modern law firms, the challenge is finding tools that enhance both efficiency and client service without adding complexity.</p>
+<p>AllRize 3.0 meets and exceeds this challenge. The new platform doesn’t just help law firms operate faster or more efficiently, it empowers law firms to fundamentally reimagine what legal work looks like in the age of AI.</p>
+<h2>Key Innovations in AllRize 3.0:</h2>
+<h3>1. Revolutionary Billing Without the Stopwatch</h3>
+<p>For decades, timekeeping has been the bane of law firm productivity. Attorneys lose countless hours manually entering billable time, often resulting in incomplete records and missed revenue.</p>
+<p>AllRize 3.0 introduces a breakthrough: AI-assisted billing that works automatically. By analyzing activity across calendars, emails, and casework, the system generates draft time entries in real time, complete with reminders and accuracy checks. This means firms can recover lost billable hours while giving attorneys more time to focus on legal work, not administrative tasks.</p>
+<p>For law firms under increasing pressure to prove efficiency and transparency to clients, this innovation represents a real competitive advantage.</p>
+<h3>2. AI-Powered Document Management</h3>
+<p>Document management is one of the most time-consuming aspects of legal work. Drafting, reviewing, comparing, and summarizing can take hours or days. AllRize 3.0 integrates Microsoft Copilot to bring true AI-powered automation into document workflows. The system can:</p>
+<ul>
+<li>Draft and summarize legal documents automatically</li>
+<li>Compare contracts and highlight risky or non-standard clauses</li>
+<li>Generate summaries and insights attorneys can trust</li>
+</ul>
+<p>AllRize 3.0 dramatically reduces time spent on paperwork so lawyers can focus more on strategy, advocacy, and client relationships.</p>
+<h3>3. Integrated Accounting &amp; Mission-Critical Compliance:</h3>
+<p>Managing trust and operating accounts is one of the most heavily regulated aspects of law firm administration. Errors in reconciliation or reporting can lead to compliance violations and jeopardize client funds.</p>
+<p>AllRize 3.0’s integrated accounting module allows firms to handle billing, accounting, and trust management in one place. With three-way reconciliation, comprehensive audit trails, automated compliance safeguards, and real-time financial reporting, firms can trust that their finances are in order.</p>
+<h3>4. Enterprise-Grade Security and AI-Powered Compliance</h3>
+<p>Data privacy and client confidentiality have become top priorities for law firms of all sizes. AllRize 3.0 addresses these concerns head-on with enterprise-grade security built on Microsoft’s trusted cloud infrastructure.</p>
+<p>The platform includes enterprise-level encryption, customizable access controls, and audit trails that gives law firms the flexibility they need while also protecting client data from exposure. AI-powered compliance monitors work around the clock to ensure confidential data stays protected and that firms are not inadvertently violating data privacy regulations and retention policies.</p>
+<h2>Powering the Next Generation of Law Firms, Responsibly</h2>
+<p>As law firms race to adopt AI and automation, AllRize 3.0 stands out for its focus on responsible innovation. Rather than chasing trends, it delivers tools that help firms modernize without compromising ethics, compliance, or client trust.</p>
+<p>In an era when the legal profession is redefining how it works, AllRize 3.0 gives firms the confidence to evolve responsibly, leveraging AI not to replace lawyers, but to empower them to serve clients smarter, faster, and with greater integrity. For firms looking to move into the next generation of legal work, AllRize 3.0 offers a practical path forward.</p>
+<p>The post <a href="https://allrize.ai/allrize-3-0-redefining-how-law-firms-work-in-the-age-of-ai/">AllRize 3.0: Redefining How Law Firms Work in the Age of AI</a> appeared first on <a href="https://allrize.ai">AllRize</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
